@@ -69,8 +69,7 @@ demo.launch(inline=True)
 
 
 ### OUTPUT:
-
-
+<img width="726" height="342" alt="image" src="https://github.com/user-attachments/assets/9573c103-9393-4492-8cd8-c65d3db527bf" />
 
 ### RESULT:
 The application successfully generates high-quality images based on user-provided text prompts. The Stable Diffusion model ensures visually appealing results, and the Gradio interface makes it accessible and interactive.
